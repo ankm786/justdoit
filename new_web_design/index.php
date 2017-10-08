@@ -223,6 +223,14 @@
 
     
     <div class="bottom">THANK YOU FOR VISITING OUR WEBSITE</div>
+ <style>
 
+    /* For tablets & smart phones */
+    @media (max-width: 767px) {
+      body {
+        padding-left: 0px;
+        padding-right: 0px;
+          padding:0px;
+      }
 </body>
 </html>
