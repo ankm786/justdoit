@@ -232,7 +232,7 @@
         padding-right: 0px;
           padding:0px;
       }
-        skul_heah{
+        skul_head{
            font-size20px; 
      }
      }
