@@ -231,41 +231,6 @@
     
 <div class="bottom">THANK YOU FOR VISITING OUR WEBSITE</div>
 
-<style>
-
-
-  @media(max-width: 767px) {
-      body {
-        padding-left: 0px;
-        padding-right: 0px;
-          margin: 0px;
-      }
-	  .date{
-    
-    font-size: 48px;
-    position: absolute;
-    text-align: center;
-    left: 40%;
-    top: 500px;
-    border-radius: 40px;
-    border-style:dotted;
-    border-color:floralwhite;
-    background: black;
-    opacity: 0.7;
-    padding: 10px;} 
-   
-      body{
-color:green;
-font-family:verdana,arial,geneva,arial black;
-font-weight:normal;
-background-image: url(background.jpg);
-font-size:25px;
-margin:0;
-}
-}
-	  
-
-    </style>
    
     
 </body>
