@@ -1,30 +1,22 @@
 <!doctype html>
 <html>
 <head>
-    <meta charset="utf-8">
 <title>HAPPY MONTESSORI HIGH SCHOOL</title>
-     <meta name="description" content="The mission of the Happy Montessori School is to provide the essentials of quality education for young children:  support, predictability, warmth, and acceptance, in the context of intellectually-stimulating, enriching activities.  We are influenced by the Montessori philosophy, which recommends a structured environment for children to develop to their full potential.">
-  <meta name="author" content="narayan aash">
-      <meta name="viewport" content="width=device-width">
 
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
-    
+<link rel="stylesheet" type="text/css" href="stylesheet.css"
 </head>
 <body>
-    <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL<div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
-        <div class="phone_logo"><img src="img/phone.png" width="20px" height="20px"></div></div>
-        
-        
-    <div class="hindi_head">हैप्पी मोंटेसरी हाई स्कूल</div> 
+    <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL <div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
+<div class="phone_logo"><img src="img/phone.png" width="20px" height="20px"></div></div>
     
+    <div class="hindi_head">हैप्पी मोंटेसरी हाई स्कूल</div> 
     
     <h4>BELTOLA CHARIALI GUWAHATI-781029</h4>
 <p class="para1">Welcome to the most prestigious educational institute of beltola</p>
-    <div class="nevigate"><div><a class="nev" href="index.php">Home</a></div><div><a class="nev" href="https://www.facebook.com/Happy-Montessori-English-High-School-1761713414097135/">About</a></div><div><a class="nev" href="dd.html">faculty</a><div><a class="nev"href="dhhd.html">Contact</a></div></div>
+    <div class="nevigate"><div><a class="nev" href="index.php">Home</a></div><div><a class="nev" href="https://www.facebook.com/Happy-Montessori-English-High-School-1761713414097135/">About</a></div><div><a class="nev" href="dd.html">Gallery</a><div><a class="nev"href="dhhd.html">Contact</a></div></div>
     <div class="date">2017-18</div></div>
     
-    <div class="make_border">
-    <style>
+     <style>
 
     #slides {
       display: none
@@ -108,25 +100,25 @@
 
     .slidesjs-pagination li a.active,
     .slidesjs-pagination li a:hover.active {
-      background-position: 0 -13px;
+      background-position: 0 -13px
     }
 
     .slidesjs-pagination li a:hover {
-      background-position: 0 -26px;
+      background-position: 0 -26px
     }
 
     #slides a:link,
     #slides a:visited {
-      color: #333;
+      color: #333
     }
 
     #slides a:hover,
     #slides a:active {
-      color: #9e2020;
+      color: #9e2020
     }
 
     .navbar {
-      overflow: hidden;
+      overflow: hidden
     }
   </style>
   <!-- End SlidesJS Optional-->
@@ -134,11 +126,11 @@
   <!-- SlidesJS Required: These styles are required if you'd like a responsive slideshow -->
   <style>
     #slides {
-      display: none;
+      display: none
     }
 
     .container {
-      margin: 0 auto;
+      margin: 0 auto
     }
 
     /* For tablets & smart phones */
@@ -148,28 +140,28 @@
         padding-right: 20px;
       }
       .container {
-        width: auto;
+        width: auto
       }
     }
 
     /* For smartphones */
     @media (max-width: 480px) {
       .container {
-        width: auto;
+        width: auto
       }
     }
 
     /* For smaller displays like laptops */
     @media (min-width: 768px) and (max-width: 979px) {
       .container {
-        width: 724px;
+        width: 724px
       }
     }
 
     /* For larger displays */
     @media (min-width: 1200px) {
       .container {
-        width: 1170px;
+        width: 1170px
       }
     }
   </style>
@@ -181,10 +173,10 @@
   <!-- The container is used to define the width of the slideshow -->
   <div class="container">
     <div id="slides">
-      <img src="img/example-slide-1.jpg" alt="Photo by: Narayan Aash">
-      <img src="secondpic.jpg" alt="Photo by: ">
-      <img src="img/example-slide-3.jpg" alt="Photo by: Narayan Aash">
-      <img src="img/example-slide-4.jpg" alt="Photo by: Narayan Aash">
+      <img src="img/example-slide-1.jpg" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
+      <img src="img/example-slide-2.jpg" alt="Photo by: Daniel Parks Link: http://www.flickr.com/photos/parksdh/5227623068/">
+      <img src="img/example-slide-3.jpg" alt="Photo by: Mike Ranweiler Link: http://www.flickr.com/photos/27874907@N04/4833059991/">
+      <img src="img/example-slide-4.jpg" alt="Photo by: Stuart SeegerLink: http://www.flickr.com/photos/stuseeger/97577796/">
     </div>
   </div>
   <!-- End SlidesJS Required: Start Slides -->
@@ -213,12 +205,11 @@
     });
   </script>
     
-    </div>
+     <div class="tarif"><i>"The mission of the Happy Montessori School is to provide the essentials of quality education for young children:  support, predictability, warmth, and acceptance, in the context of intellectually-stimulating, enriching activities.  We are influenced by the Montessori philosophy, which recommends a structured environment for children to develop to their full potential."</i></div>
     
-    <div class="tarif"><i>"The mission of the Happy Montessori School is to provide the essentials of quality education for young children:  support, predictability, warmth, and acceptance, in the context of intellectually-stimulating, enriching activities.  We are influenced by the Montessori philosophy, which recommends a structured environment for children to develop to their full potential."</i></div>
+      
+    <div class="video"><video controls><source src="video/Happy.mp4"/></video><div class="video_des">Felicitation program to the STAR mark holders of Happy<br> Montessori school by AASU(all assam stutents union)Beltola..Ghy</div></div>
     
-    
-    <div class="video"><video controls><source src="video/Happy.mp4"/></video><div class="video_des">Felicitation program to the STAR mark holders of Happy<br> Montessori school by AASU(all assam stutents union)Beltola..Ghy</div></div><br>
     <br>
     <br>
     <br>
@@ -228,10 +219,10 @@
     <br>
     <br>
     <br>
-    
-<div class="bottom">THANK YOU FOR VISITING OUR WEBSITE</div>
+    <br>
 
-   
     
+    <div class="bottom">THANK YOU FOR VISITING OUR WEBSITE</div>
+
 </body>
 </html>
