@@ -2,7 +2,14 @@
     padding: 0;
 }
 
-
+    body{
+color:green;
+font-family:verdana,arial,geneva,arial black;
+font-weight:normal;
+background-image: url(background.jpg);
+font-size:25px;
+margin:0;
+}
 
 
   @media(max-width: 767px) {
@@ -50,7 +57,7 @@ margin:0;
 .hindi_head{
     
     color: #FFF;
-    font-size: 26px;
+    font-size: 22px;
     font-weight: bold;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", sans-serif;
     position: absolute;
