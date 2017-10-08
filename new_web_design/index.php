@@ -232,5 +232,9 @@
         padding-right: 0px;
           padding:0px;
       }
+        skul_heah{
+           font-size20px; 
+     }
+     }
 </body>
 </html>
