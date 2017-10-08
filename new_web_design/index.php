@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="stylesheet.css"
 </head>
 <body>
-    <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL <div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
+    <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL <div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
 <div class="phone_logo"><img src="img/phone.png" width="20px" height="20px"></div></div>
     
     <div class="hindi_head">हैप्पी मोंटेसरी हाई स्कूल</div> 
