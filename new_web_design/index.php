@@ -234,7 +234,7 @@
 <style>
 
 
-  @media (max-width: 767px) {
+  @media(max-width: 767px) {
       body {
         padding-left: 0px;
         padding-right: 0px;
