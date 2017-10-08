@@ -10,6 +10,13 @@ font-size:25px;
 margin:0;
 }
 
+  @media (max-width: 767px) {
+      body {
+        padding-left: 0px;
+        padding-right: 0px;
+          margin: 0px;
+      }
+
 .skul_head {
     color: #FFF;
     font-size: 26px;
