@@ -232,14 +232,7 @@
 <div class="bottom">THANK YOU FOR VISITING OUR WEBSITE</div>
 
 <style>
-  body{
-color:green;
-font-family:verdana,arial,geneva,arial black;
-font-weight:normal;
-background-image: url(background.jpg);
-font-size:25px;
-margin:0;
-}
+
 
   @media (max-width: 767px) {
       body {
