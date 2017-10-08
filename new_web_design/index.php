@@ -252,12 +252,19 @@
     border-color:floralwhite;
     background: black;
     opacity: 0.7;
-    padding: 10px;
+    padding: 10px;} 
    
-    
+      body{
+color:green;
+font-family:verdana,arial,geneva,arial black;
+font-weight:normal;
+background-image: url(background.jpg);
+font-size:25px;
+margin:0;
+}
 }
 	  
-}
+
     </style>
    
     
