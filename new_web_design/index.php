@@ -230,7 +230,19 @@
     <br>
     
 <div class="bottom">THANK YOU FOR VISITING OUR WEBSITE</div>
-
+<style>
+     @media (max-width: 767px) {
+      skul_hrad{
+        color: #FFF;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    background-color: #5c0002;
+    padding: 50px;
+    position: relative;
+      }
+    }
+    </style>
    
     
 </body>
