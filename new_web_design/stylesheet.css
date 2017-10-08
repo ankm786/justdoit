@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+}
+body{
+color:green;
+font-family:verdana,arial,geneva,arial black;
+font-weight:normal;
+background-image: url(background.jpg);
+font-size:25px;
+margin:0;
+}
+
+.skul_head {
+    color: #FFF;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    background-color: #5c0002;
+    padding: 50px;
+    position: relative;
+    
+}
+.hindi_head{
+    
+    color: #FFF;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", sans-serif;
+    position: absolute;
+    top: 15px;
+    left: 239px;
+    
+}
+
+.lower_head{
+    
+    font-size: 14px;
+    color: coral;
+    position:absolute;
+    top: 80px;
+    left: 241px;
+    
+}
+
+.logo{
+    
+    position: absolute;
+    top: 12px;
+    left: 100px;
+    width: auto;
+    height: auto;
+}
+
+.email{
+    
+    position: absolute;
+    right: 40px;
+    top: 35px;
+    font-size: 15px;
+    color: #FFF;
+    font-style: normal;
+   
+    
+}
+.email_logo{
+    
+    position: absolute;
+    right: 230px;  
+}
+
+.phone_logo{
+    
+    position: absolute;
+    top: 50px;
+    right: 270px;
+    
+}
+h4{
+    text-align: center;
+    padding: 5px;
+    background-image: url(img/cloud.gif);
+    margin: auto;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+h2{
+text-decoration:overline underline; 
+font-size:1.2em;
+}
+.para1{
+color:white;
+text-align: center;
+margin:0;
+border:2px;
+border-style: solid;
+border-color: black;
+background-color: darkcyan;
+}
+p.para2{
+color:purple;
+background-image:url(cloud.gif);
+border-style:solid;
+}
+p.para3{
+color:purple;
+font-size:15px;
+line-height:200%;
+background-color:yellow;
+padding:20px;
+border-style:solid;
+margin:0;
+		
+}
+
+p.para4{
+color:black;
+font-size:15px;
+line-height:200%;
+background-color :yellow;
+padding:20px;
+border-style:solid;
+margin:0; 
+}
+
+.imagec{
+ display:block;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+    
+}
+
+.nevigate{
+    
+    text-align: left;
+    padding: 1px;
+    line-height: 40px;
+    
+}
+
+skul_head:hover{
+    
+    padding: 2px;
+    
+}
+
+
+.video{
+    position: absolute;
+    right:90px;
+    
+}
+.tarif{
+    display: block;
+    font-size: 30px;
+    padding:7px;
+    border: 2px;
+    border-style:ridge;
+    text-align: center;
+    position: absolute;
+    left: 90px;
+    right: 500px;
+    background-color: cadetblue;
+    font-family: "DejaVu Sans";
+    color: cornsilk
+    
+}
+
+.video_des{
+    
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+    color: darkblue
+    
+}
+
+.date{
+    
+    font-size: 48px;
+    position: absolute;
+    text-align: center;
+    left: 40%;
+    top: 275px;
+    border-radius: 40px;
+    border-style:dotted;
+    border-color:floralwhite;
+    background: black;
+    opacity: 0.7;
+    padding: 10px;
+   
+    
+}
+
+.bottom{
+    
+    background-color: black;
+    padding: 100px;
+    top: 555px;
+    text-align: center;
+    font-size: 50px;
+    color:darkgrey;
+    
+}
+
+.make_border{
+    
+    padding: 10px;
+}
+
