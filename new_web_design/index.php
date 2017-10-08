@@ -236,5 +236,6 @@
            font-size20px; 
      }
      }
+    </style>
 </body>
 </html>
