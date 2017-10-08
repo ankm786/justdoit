@@ -182,7 +182,7 @@
   <div class="container">
     <div id="slides">
       <img src="img/example-slide-1.jpg" alt="Photo by: Narayan Aash">
-      <img src="img/example-slide-2.jpg" alt="Photo by: Narayan Aash">
+      <img src="secondpic.jpg" alt="Photo by: ">
       <img src="img/example-slide-3.jpg" alt="Photo by: Narayan Aash">
       <img src="img/example-slide-4.jpg" alt="Photo by: Narayan Aash">
     </div>
