@@ -224,18 +224,20 @@
     
     <div class="bottom">THANK YOU FOR VISITING OUR WEBSITE</div>
  <style>
+    #slides {
+      display: none
+    }
+
+    .container {
+      margin: 0 auto
+    }
 
     /* For tablets & smart phones */
     @media (max-width: 767px) {
       body {
-        padding-left: 0px;
-        padding-right: 0px;
-          padding:0px;
-      }
-        skul_head{
-           font-size20px; 
-     }
-     }
+        padding-left: 20px;
+        padding-right: 20px;
+        }}
     </style>
 </body>
 </html>
