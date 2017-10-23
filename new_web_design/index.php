@@ -1,6 +1,10 @@
 <!doctype html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="didesweb_responsive_navbar.css" media="all">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="jquery.didesweb_responsive_navbar.js"></script>
+    
 <title>HAPPY MONTESSORI HIGH SCHOOL</title>
 
 <link rel="stylesheet" type="text/css" href="stylesheet.css"
@@ -9,7 +13,25 @@
     <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL <div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
 <div class="phone_logo"><img src="img/phone.png" width="20px" height="20px"></div></div>
     
-    <div class="hindi_head">हैप्पी मोंटेसरी हाई स्कूल</div> 
+    <div class="hindi_head">हैप्पी मोंटेसरी हाई स्कूल</div>
+    
+    <nav class="menu_open navbar_nav">
+	<a href="#" id="menu-acces" class="menu_a">OPEN THE MENU</a>
+	<ul class="menu_open navbar_ul">
+		<li class="menu_li">
+			<a class="menu_a" href="#">HOME</a>
+		</li>
+		<li class="menu_li">
+			<a class="menu_a" href="#">WORKS</a>
+		</li>
+		<li class="menu_li">
+			<a class="menu_a" href="#">ABOUT</a>
+		</li>
+		<li class="menu_li">
+			<a class="menu_a" href="#">CONTACT</a>
+		</li>
+	</ul>
+</nav>
     
     <h4>BELTOLA CHARIALI GUWAHATI-781029</h4>
 <p class="para1">Welcome to the most prestigious educational institute of beltola</p>
@@ -239,5 +261,25 @@
         padding-right: 20px;
         }}
     </style>
+    
+    </script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+	</div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    
 </body>
 </html>
