@@ -10,11 +10,8 @@
 <link rel="stylesheet" type="text/css" href="stylesheet.css"
 </head>
 <body>
-    <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL <div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
-<div class="phone_logo"><img src="img/phone.png" width="20px" height="20px"></div></div>
-    
-    <div class="hindi_head">हैप्पी मोंटेसरी हाई स्कूल</div>
-    
+	
+	  
     <nav class="menu_open navbar_nav">
 	<a href="#" id="menu-acces" class="menu_a">OPEN THE MENU</a>
 	<ul class="menu_open navbar_ul">
@@ -33,6 +30,12 @@
 	</ul>
 </nav>
     
+	
+    <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL <div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
+<div class="phone_logo"><img src="img/phone.png" width="20px" height="20px"></div></div>
+    
+    <div class="hindi_head">हैप्पी मोंटेसरी हाई स्कूल</div>
+  
     <h4>BELTOLA CHARIALI GUWAHATI-781029</h4>
 <p class="para1">Welcome to the most prestigious educational institute of beltola</p>
     <div class="nevigate"><div><a class="nev" href="index.php">Home</a></div><div><a class="nev" href="https://www.facebook.com/Happy-Montessori-English-High-School-1761713414097135/">About</a></div><div><a class="nev" href="dd.html">Gallery</a><div><a class="nev"href="dhhd.html">Contact</a></div></div>
