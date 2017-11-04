@@ -1,36 +1,13 @@
 <!doctype html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="didesweb_responsive_navbar.css" media="all">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-	<script src="jquery.didesweb_responsive_navbar.js"></script>
     
-<title>HAPPY MONTESSORI HIGH SCHOOL</title>
+	<title>HAPPY MONTESSORI HIGH SCHOOL</title>
 
 <link rel="stylesheet" type="text/css" href="stylesheet.css"
 </head>
 <body>
-	
-	  
-    <nav class="menu_open navbar_nav">
-	<a href="#" id="menu-acces" class="menu_a">OPEN THE MENU</a>
-	<ul class="menu_open navbar_ul">
-		<li class="menu_li">
-			<a class="menu_a" href="#">HOME</a>
-		</li>
-		<li class="menu_li">
-			<a class="menu_a" href="#">WORKS</a>
-		</li>
-		<li class="menu_li">
-			<a class="menu_a" href="#">ABOUT</a>
-		</li>
-		<li class="menu_li">
-			<a class="menu_a" href="#">CONTACT</a>
-		</li>
-	</ul>
-</nav>
     
-	
     <div class="skul_head">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHAPPY MONTESSORI HIGH SCHOOL <div class="lower_head">Learn to be happy!</div><div class="logo"><img src="img/logo.png" widh="110px" height="110px"></div><div class="email"><div class="email_logo"><img src="img/email.png" width="20px" height="20px"></div>happyschool1234@gmail.com<br>0361-8759628</div>
 <div class="phone_logo"><img src="img/phone.png" width="20px" height="20px"></div></div>
     
